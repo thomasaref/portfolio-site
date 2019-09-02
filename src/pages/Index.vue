@@ -46,8 +46,6 @@
 </page-query>
 
 <script>
-import Author from "~/components/Author.vue";
-import ProjectCard from "~/components/ProjectCard.vue";
 import IndexView from "~/components/IndexView.vue";
 
 export default {
@@ -60,8 +58,6 @@ export default {
     }
   },
   components: {
-    Author,
-    ProjectCard,
     IndexView
   },
   metaInfo: {

@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import ProjectCard from "~/components/ProjectCard.vue";
+import ProjectCard from "~/components/index-view/ProjectCard.vue";
 
 export default {
   props: ["post"],

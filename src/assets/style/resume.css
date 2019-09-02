@@ -1,0 +1,102 @@
+.r-main-div hr {
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.r-main-div  {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.r-main-div p, .r-main-div h3, .r-main-div h5, .r-main-div ul, .r-main-div li {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.r-main-div h5 {
+    font-size: 18px;
+}
+
+.r-main-div ul {
+  margin-bottom: 5px;
+  margin-left: 40px;
+} 
+
+.r-threequarter,
+.r-quarter {
+  width: 100%;
+}
+.r-half {
+  width: 49.9999%;
+}
+.r-hide-large {
+  display: inline;
+}
+.r-hide-small {
+  display: none;
+}
+.r-inline-small {
+  display: inline;
+}
+.r-float-right-small {
+  float: right;
+}
+
+.r-head {margin-top: 5px;}
+
+.r-row-small {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+@media (min-width: 501px) {
+  .r-row-small {
+      display: flex;
+      flex-flow: column nowrap;
+  }
+  .r-head {
+      margin-top: 0;
+  }
+  .r-quarter {
+    width: 24.9999%;
+    float: left;
+  }
+  .r-threequarter {
+    width: 74.9999%;
+    float: right;
+  }
+  .r-half {
+    width: 100%;
+  }
+  .r-hide-large {
+    display: none;
+  }
+  .r-hide-small,
+  .r-inline-small {
+    display: block;
+  }
+  .r-float-right-small {
+    float: none;
+  }
+}
+
+.r-margin-right {
+  margin-right: 5px;
+}
+.r-margin-right-wide {
+  margin-right: 10px;
+}
+.r-margin-top {
+  margin-top: 5px;
+}
+.r-pad-left {
+  padding-left: 10px;
+}
+.r-pad {
+  padding: 5px;
+}
+.r-large {
+  font-size: 18px;
+}

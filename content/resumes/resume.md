@@ -21,7 +21,7 @@ contact: {
     version: "3"
 }
 fullFilename: "user.vcf"
-description: "A one page resume that tries to cover my background as developer and research scientist."
+description: "A one page resume that tries to cover both my background as developer and research scientist."
 
 sidebar: [
     {

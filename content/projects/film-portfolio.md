@@ -1,5 +1,5 @@
 ---
-title: Film portfolio
+title: Film Portfolio
 date: 2019-05-09
 published: true
 tags: ['Web app']

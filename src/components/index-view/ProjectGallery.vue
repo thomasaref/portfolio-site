@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import ProjectLink from "~/components/ProjectLink.vue";
+import ProjectLink from "~/components/index-view/ProjectLink.vue";
 
 export default {
   props: ["nodes"],

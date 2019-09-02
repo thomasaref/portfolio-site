@@ -1,6 +1,6 @@
 ---
 title: Tasklode
-date: 2019-05-10
+date: 2019-05-11
 published: true
 tags: ['Web app']
 skill_tags: ['Javascript', 'AngularJS', 'CSS', 'HTML']
